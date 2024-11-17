@@ -1,0 +1,38 @@
+.container {
+
+    width: 320px;
+
+
+}
+
+.master {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FEEE91;
+
+    padding: 10px;  /* Add this for some edge spacing */
+}
+
+.btn {
+    font-size: 60px;
+    width: 70px;
+    background-color: #FFBD73;
+
+}
+
+.equals {
+    width: 140px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;  
+    margin: 5px 0;  
+
+}
+
+.display {
+    background-color: #C4E1F6;
+}
